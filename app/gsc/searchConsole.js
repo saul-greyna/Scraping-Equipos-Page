@@ -39,6 +39,11 @@ async function getQueries(pageUrl) {
                                 operator: 'equals',
                                 expression: pageUrl,
                             },
+                            /* {
+                                dimension: 'searchAppearance',
+                                operator: 'equals',
+                                expression: 'PRODUCT_SNIPPETS',
+                            }, */
                         ],
                     },
                 ],

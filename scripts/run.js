@@ -4,9 +4,9 @@ const { saveRanking } = require('../app/ranking/saveRanking');
 
 async function run() {
 
-    const targetUrl = 'https://www.equiposdeseguridadmexico.com/guantes-de-bombero-fireless/';
+    const targetUrl = 'https://www.equiposdeseguridadmexico.com/hacha-pulaski-dhp020/';
 
-    const queries = await getQueries('https://www.equiposdeseguridadmexico.com/guantes-de-bombero-fireless/');
+    const queries = await getQueries('https://www.equiposdeseguridadmexico.com/hacha-pulaski-dhp020/');
 
     const {
         context,
