@@ -1,0 +1,136 @@
+[
+  {
+    "keyword": "extintor abc 10 kg",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "gscAveragePosition": 10,
+    "serpPosition": 6,
+    "found": true
+  },
+  {
+    "keyword": "extintor pqs 10 libras",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "gscAveragePosition": 6.333333333333333,
+    "serpPosition": 7,
+    "found": true
+  },
+  {
+    "keyword": "extintor pqs 10 kg",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "gscAveragePosition": 10.5,
+    "serpPosition": 9,
+    "found": true
+  },
+  {
+    "keyword": "extintor pqs 10 kg precio",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "gscAveragePosition": 9,
+    "serpPosition": 11,
+    "found": true
+  },
+  {
+    "keyword": "extintor portatil pqs",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "gscAveragePosition": 1,
+    "serpPosition": 11,
+    "found": true
+  },
+  {
+    "keyword": "extintor abc 10 lb",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "gscAveragePosition": 9,
+    "serpPosition": 12,
+    "found": true
+  },
+  {
+    "keyword": "extintor abc 10 lbs",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "gscAveragePosition": 10.5,
+    "serpPosition": 13,
+    "found": true
+  },
+  {
+    "keyword": "extintor abc 10 libras",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "gscAveragePosition": 6.5,
+    "serpPosition": 13,
+    "found": true
+  },
+  {
+    "keyword": "extintor buckeye 10 libras",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "gscAveragePosition": 1,
+    "serpPosition": 15,
+    "found": true
+  },
+  {
+    "keyword": "extintores 10 kg",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "gscAveragePosition": 3,
+    "serpPosition": 36,
+    "found": true
+  },
+  {
+    "keyword": "extintor buckeye",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "gscAveragePosition": 11,
+    "serpPosition": 41,
+    "found": true
+  },
+  {
+    "keyword": "extintor pqs abc",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "gscAveragePosition": 90,
+    "serpPosition": null,
+    "found": false
+  },
+  {
+    "keyword": "extintores pqs abc",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "gscAveragePosition": 12,
+    "serpPosition": null,
+    "found": false
+  },
+  {
+    "keyword": "buckeye mexico",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "gscAveragePosition": 51.5,
+    "serpPosition": null,
+    "found": false
+  },
+  {
+    "keyword": "pqs abc",
+    "error": true
+  },
+  {
+    "keyword": "pqs abc extintor",
+    "error": true
+  }
+]
