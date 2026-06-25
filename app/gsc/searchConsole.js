@@ -25,8 +25,8 @@ async function getQueries(pageUrl) {
             siteUrl: 'sc-domain:equiposdeseguridadmexico.com',
 
             requestBody: {
-                startDate: '2025-02-23',
-                endDate: '2026-06-23',
+                startDate: '2025-02-25',
+                endDate: '2026-06-25',
                 dataState: 'all',
                 dimensions: ['query'],
                 type: 'web',
@@ -39,11 +39,11 @@ async function getQueries(pageUrl) {
                                 operator: 'equals',
                                 expression: pageUrl,
                             },
-                            /* {
+                            {
                                 dimension: 'searchAppearance',
                                 operator: 'equals',
                                 expression: 'PRODUCT_SNIPPETS',
-                            }, */
+                            },
                         ],
                     },
                 ],
