@@ -4,9 +4,9 @@ const { saveRanking } = require('../app/ranking/saveRanking');
 
 async function run() {
 
-    const targetUrl = 'https://www.equiposdeseguridadmexico.com/extintor-de-agua-ligero-afff/';
+    const targetUrl = 'https://www.equiposdeseguridadmexico.com/overol-forestal-tb-ov/';
 
-    const queries = await getQueries('https://www.equiposdeseguridadmexico.com/extintor-de-agua-ligero-afff/');
+    const queries = await getQueries('https://www.equiposdeseguridadmexico.com/overol-forestal-tb-ov/');
 
     const {
         context,

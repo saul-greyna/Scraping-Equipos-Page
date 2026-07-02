@@ -1,0 +1,56 @@
+[
+  {
+    "keyword": "pala de bombero",
+    "clicks": 1,
+    "impressions": 73,
+    "ctr": 0.0136986301369863,
+    "gscAveragePosition": 5.63013698630137,
+    "serpPosition": 7,
+    "found": true
+  },
+  {
+    "keyword": "pala para bombero",
+    "clicks": 1,
+    "impressions": 18,
+    "ctr": 0.05555555555555555,
+    "gscAveragePosition": 10.333333333333334,
+    "serpPosition": 3,
+    "found": true
+  },
+  {
+    "keyword": "pala bombero",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "gscAveragePosition": 7.25,
+    "serpPosition": 5,
+    "found": true
+  },
+  {
+    "keyword": "pala de bomberos",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "gscAveragePosition": 7.333333333333333,
+    "serpPosition": 5,
+    "found": true
+  },
+  {
+    "keyword": "pala forestal",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "gscAveragePosition": 54.77777777777778,
+    "serpPosition": null,
+    "found": false
+  },
+  {
+    "keyword": "palas de bomberos",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "gscAveragePosition": 6.666666666666667,
+    "serpPosition": 5,
+    "found": true
+  }
+]
