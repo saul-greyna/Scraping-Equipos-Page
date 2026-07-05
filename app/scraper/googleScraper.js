@@ -1,29 +1,26 @@
 const { chromium } = require('playwright');
 
 async function createBrowser() {
+    const browser = await chromium.launch({
+        headless: false,
+        args: ['--disable-blink-features=AutomationControlled']
+    });
 
-    const context =
-        await chromium.launchPersistentContext(
-            './chrome-data',
-            {
-                headless: false,
-
-                viewport: {
-                    width: 1250,
-                    height: 940,
-                },
-
-                userAgent:
-                    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36',
-
-                locale: 'es-MX',
-            }
-        );
+    const context = await browser.newContext({
+        viewport: {
+            width: 957,
+            height: 968,
+        },
+        userAgent:
+            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36',
+        locale: 'es-MX',
+    });
 
     const page = await context.newPage();
 
     return {
         context,
+        browser,
         page,
     };
 }
