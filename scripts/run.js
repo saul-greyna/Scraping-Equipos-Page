@@ -1,6 +1,6 @@
 const { getQueries } = require('../app/gsc/searchConsole');
 const { createBrowser, searchKeyword, } = require('../app/scraper/googleScraper');
-const { saveRanking } = require('../app/ranking/saveRanking');
+const { saveRanking } = require('../app/rankingSave/saveRanking');
 
 async function run() {
 
