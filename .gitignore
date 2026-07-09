@@ -3,3 +3,4 @@ credentials.json
 token.json
 chrome-data/
 node_modules/
+app/ranking/
